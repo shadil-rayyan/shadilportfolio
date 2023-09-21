@@ -1,32 +1,31 @@
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
--- import: shadil-rayyan.github.io/shadilportfolio/lib
+-- import: niranjanrc.github.io/rcportfolio/lib
 
 -- lib.page:
 
 -- lib.header:
 logo: $assets.files.assets.logo.jpg
 logo-text: Portfolio
-cta-text-1: Home
-cta-text-2: About
-cta-text-3: Resume
-cta-text-4: contact me
+cta-text-1: home
+cta-text-2: About Me
+cta-text-3: contact me
 cta-text-1-url: index.html
 cta-text-2-url: index.html
 cta-text-3-url: index.html
 
-
--- hero-1.hero-1: shadil the hero
-cta-button-1: Resume
-link-1: https://tiiny.host/use-case/resume-link/
+-- hero-1.hero-1: SHADIL AM
+cta-button-1: cv
+link-1: https://www.resume.com/
 cta-button-2: Schedule Meeting
-link-2:https://calendly.com/
+link-2: https://calendly.com/
 cover: $assets.files.assets.peakpx.jpg
 
-i am batman 
+In the shadows of the night, 
+lurking in the shadows,
+beware intruders 
+for 
+I am vengeance....
 
--- end: lib.page
-
-i am batman 
 
 -- end: lib.page
