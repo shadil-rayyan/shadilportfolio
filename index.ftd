@@ -1,6 +1,5 @@
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
--- import:
 -- import: shadil-rayyan.github.io/shadilportfolio/lib
 
 -- lib.page:
@@ -19,9 +18,9 @@ cta-text-4-url: index html
 
 -- hero-1.hero-1: shadil the hero
 cta-button-1: Resume
-link-1:https://tiiny.host/use-case/resume-link/
+link-1: https://tiiny.host/use-case/resume-link/
 cta-button-2: Schedule Meeting
-link-2:
+link-2:https://calendly.com/
 cover: $assets.files.assets.peakpx.jpg
 
 i am batman 
