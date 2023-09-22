@@ -1,8 +1,6 @@
--- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
+- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
--- import: niranjanrc.github.io/rcportfolio/lib
-
--- lib.page:
+-- import: shadil-rayyan.github.io/rcportfolio/lib
 
 -- lib.header:
 logo: $assets.files.assets.logo.jpg
@@ -11,8 +9,8 @@ cta-text-1: home
 cta-text-2: About Me
 cta-text-3: contact me
 cta-text-1-url: index.html
-cta-text-2-url: index.html
-cta-text-3-url: index.html
+cta-text-2-url: about.html
+cta-text-3-url: contact.html
 
 -- hero-1.hero-1: SHADIL AM
 cta-button-1: cv
