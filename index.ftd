@@ -14,15 +14,15 @@ cta-text-1-url: index.html
 cta-text-2-url: index.html
 cta-text-3-url: index.html
 
--- hero-1.hero-1: I'm John Doe
+-- hero-1.hero-1: I AM SHADIL AM
 cta-button-1: Resume
 link-1: https://www.resume.com/
 cta-button-2: Schedule Meeting
 link-2: https://calendly.com/
-cover: $assets.files.assets.ape-1.jpg
+cover: $assets.files.assets.IMG_20221109_212208.jpg
 
-Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
-Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
+I am a computer science student at [your university] with a passion for learning and building new things. I am currently in my [year] year of study and I am eager to gain hands-on experience in the field. I am proficient in a variety of programming
+languages and I have experience working on a variety of projects, including developing websites etc.
 
 
 -- end: lib.page
